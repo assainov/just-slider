@@ -1,0 +1,23 @@
+{
+  "name": "just-slider",
+  "version": "1.0.0",
+  "description": "Lightweight slider with only essential functionality",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/assainov/just-slider.git"
+  },
+  "keywords": [
+    "slider",
+    "just-slider"
+  ],
+  "author": "Ilyas Assainov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/assainov/just-slider/issues"
+  },
+  "homepage": "https://github.com/assainov/just-slider#readme"
+}

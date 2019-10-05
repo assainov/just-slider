@@ -1,0 +1,40 @@
+.kiss-slider {
+    position: relative;
+}
+
+.kiss-slider-frame {
+    overflow: hidden;
+    height: 100%;
+}
+
+.kiss-slider-list {
+    display: flex; 
+    flex-wrap: nowrap; 
+    align-items: center;
+    height: 100%;
+    transition: transform ease-in-out 0.5s;
+
+}
+
+.kiss-slider-container {
+    height: 100%;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+
+}
+
+.kiss-slider-btn {
+    position: absolute;
+    top: 50%;
+    transform: translateY(-50%);
+
+}
+
+.kiss-slider-btn-left {
+    left: 0;
+}
+
+.kiss-slider-btn-right {
+    right: 0;
+}
